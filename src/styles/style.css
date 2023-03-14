@@ -60,7 +60,7 @@ section {
   padding: 100px 0;
 }
 
-section.bg-image::before {
+.uncut-section.bg-image::after {
   position: absolute;
   top: 0;
   left: 0;
@@ -124,8 +124,8 @@ button {
 
 .main-image {
   position: absolute;
-  top: -55px;
-  left: 270px;
+  top: 55px;
+  right: -270px;
   z-index: -50;
   height: 525px;
 }
