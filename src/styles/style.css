@@ -156,7 +156,7 @@ button {
 }
 
 .card {
-  width: 302px;
+  width: 297px;
   padding: 24px;
 }
 
@@ -385,6 +385,10 @@ button {
   row-gap: 20px;
 }
 
+.column-gap-30 {
+  column-gap: 30px;
+}
+
 .order-first {
   order: 1;
 }
@@ -395,4 +399,8 @@ button {
 
 .nowrap {
   white-space: nowrap;
+}
+
+.m-0 {
+  margin: 0;
 }
