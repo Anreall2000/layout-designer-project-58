@@ -156,7 +156,7 @@ button {
 }
 
 .card {
-  width: 297px;
+  width: 300px;
   padding: 24px;
 }
 
@@ -207,6 +207,8 @@ button {
   margin-bottom: 20px;
   padding: 5px 10px;
   font-weight: 700;
+  font-size: 14px;
+  line-height: 1.2em;
   vertical-align: middle;
 }
 
