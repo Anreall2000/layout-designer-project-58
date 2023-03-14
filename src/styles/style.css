@@ -199,6 +199,7 @@ button {
 
 .summary {
   font-size: 34px;
+  line-height: 1.2;
 }
 
 .how {
@@ -390,4 +391,8 @@ button {
 
 .order-second {
   order: 2;
+}
+
+.nowrap {
+  white-space: nowrap;
 }
